@@ -1,10 +1,5 @@
-
-
-<!---
-tranquilsoul9/tranquilsoul9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-💫 About Me: I’m currently working on a cybersecurity project.<br>🤝 I’m looking for help with various projects I m interested to create in different domains.<br>🌱 I’m currently in my third year of B.Tech in IT .<br>
+# 💫 About Me:
+🔭 I’m currently working on a cyber Security project.<br>🤝 I’m looking for help with various projects I m interested to create in different domains.<br>🌱 I’m currently in my third year of B.Tech in IT .<br>
 
 
 ## 🌐 Socials:
