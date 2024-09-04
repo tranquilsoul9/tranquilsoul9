@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a cyber Security project.<br>🤝 I’m looking for help with various projects I m interested to create in different domains.<br>🌱 I’m currently in my third year of B.Tech in IT .<br>
+🔭 I’m currently working on a cyber Security project.<br>🤝 I’m looking for help with various projects I m interested to create in different domains.<br>🌱 I’m currently in my third year of B.Tech in IT .<br>- 😄 Pronouns: She/Her <be>-
 
 
 ## 🌐 Socials:
